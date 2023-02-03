@@ -26,13 +26,9 @@
   margin-top: 2%;
 }
 
-canvas{
-  animation: shadow 1s infinite ease-in-out;
-}
-
 video {
   animation: shadow 1s infinite ease-in-out;
-  margin-top: 2%;
+  margin-top: 10%;
 }
 
 p{
